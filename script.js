@@ -1,0 +1,1 @@
+alert("Aku,Ganteng,lha");
