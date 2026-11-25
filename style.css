@@ -75,6 +75,7 @@ nav a {
     color: gray;
     margin-left: 3rem;
     transition: 0.3s;
+    gap: 20px;
 }
 
 nav a:hover,
