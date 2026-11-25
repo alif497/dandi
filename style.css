@@ -63,6 +63,7 @@ body:not(.dark) .home-content h3{
     font-weight: 800;
     cursor: pointer;
     transition: 0.5s ease;
+    gap: 30px;
 }
 
 .logo:hover {
